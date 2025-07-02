@@ -1,9 +1,9 @@
 # C#Forintern
 
-Requirements
-- Visual Studio 2022
-- SQL Server
-- DevExpress
+Requirements (Full working)
+Visual Studio 2022
+SQL Server
+DevExpress
 Setup
 1. Import `SQLQuery.sql` in SQL Server
 2. Open solution in Visual Studio
